@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236486078234",
+    "project_id": "rootally-ai-a6ce4",
+    "storage_bucket": "rootally-ai-a6ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236486078234:android:e8d0006c8af7d64b4346a3",
+        "android_client_info": {
+          "package_name": "com.rootally.allycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236486078234-ihlkfhu45n4klh2d7djpkcukqe511i75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rootally.allycare",
+            "certificate_hash": "744ccc2835d588ea205c8895d8037fabdfb9a516"
+          }
+        },
+        {
+          "client_id": "236486078234-moqaf4u6h4o7v5qm3udpo43o2ncfuuev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8-HWg4_f3EC2GncuJsvMa3BsjiAhC8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236486078234-moqaf4u6h4o7v5qm3udpo43o2ncfuuev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
